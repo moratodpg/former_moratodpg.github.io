@@ -1,9 +1,9 @@
 ---
-title: "Optimal inspection and maintenance planning for deteriorating structural components through dynamic Bayesian networks and Markov decision processes"
+title: "Point-based POMDP risk based inspection of offshore wind substructures"
 collection: publications
 permalink: /publication/2018-10-01-point_pomdp
 date: 2018-10-01
-venue: 'The Sixth International Symposium on Life-Cycle Civil (IALCCE 2018) Engineering Conference Proceedings'
+venue: 'The Sixth International Symposium on Life-Cycle Civil Engineering (IALCCE 2018) Conference Proceedings'
 ---
 
 [Download paper here](https://www.routledge.com/Life-Cycle-Analysis-and-Assessment-in-Civil-Engineering-Towards-an-Integrated/Caspeele-Taerwe-Frangopol/p/book/9781138626331)
