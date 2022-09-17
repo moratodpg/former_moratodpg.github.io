@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Ship and offshore structures"
 collection: teaching
-type: "Undergraduate course"
+type: "Postgraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Liège, Civil and Naval Engineering"
+date: 2017-01-09
+location: "Liège, Belgium"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Teaching period: 2017 - present.
+* Specific lectures: Fatigue assessment of marine structures.
+* [Access the syllabus](https://www.programmes.uliege.be/cocoon/20222023/en/cours/CNAV0014-3.html)
