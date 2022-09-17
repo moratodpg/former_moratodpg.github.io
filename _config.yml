@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Postdoctoral Researcher at ULiège"
   avatar           : "picture_profile_pm.png"
-  bio              : "Optimal decision-making under uncertainty"
-  location         : "https://goo.gl/maps/XmVap8GeGD4DSo3H8"
+  bio              : "Decision-making under uncertainty"
+  location         : "Liège, Belgium"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=-px7BBgAAAAJ&hl=en"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/moratodpg"
+  github           : "moratodpg"
   google_plus      :
   keybase          :
   instagram        :
