@@ -3,7 +3,7 @@ title: "Integrated project in ship design"
 collection: teaching
 type: "Postgraduate course"
 permalink: /teaching/2021_shipDesignProject
-venue: "University of Liège, Civil and Naval Engineering"
+venue: "University of Liège, Civil and Naval Engineering Department"
 date: 2021-01-09
 location: "Liège, Belgium"
 ---
