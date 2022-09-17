@@ -11,4 +11,4 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 
 [Download paper here](https://doi.org/10.1016/j.strusafe.2021.102140)
 
-Recommended citation: Morato, P. G., Papakonstantinou, K. G., Andriotis, C. P., Nielsen, J. S., & Rigo, P. (2022). "Optimal inspection and maintenance planning for deteriorating structural components through dynamic Bayesian networks and Markov decision processes." <i>Structural Safety</i>. 94, 102140.
+Recommended citation: Morato, P. G., Papakonstantinou, K. G., Andriotis, C. P., Nielsen, J. S., & Rigo, P. (2022). "Optimal inspection and maintenance planning for deteriorating structural components through dynamic Bayesian networks and Markov decision processes." <i>Structural Safety</i>, 94, 102140.
