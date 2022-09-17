@@ -10,4 +10,4 @@ location: "Liège, Belgium"
 
 * Teaching period: 2021 - present.
 * Duties: Coordinator and lecturer of the course.
-* [Access the syllabus] (https://www.programmes.uliege.be/cocoon/20222023/cours/APRI0009-1.html)
+* [Access the syllabus](https://www.programmes.uliege.be/cocoon/20222023/cours/APRI0009-1.html)
