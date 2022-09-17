@@ -2,7 +2,7 @@
 title: "Ship and offshore structures"
 collection: teaching
 type: "Postgraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2017_fatigueMarine
 venue: "University of Liège, Civil and Naval Engineering Department"
 date: 2017-01-09
 location: "Liège, Belgium"
