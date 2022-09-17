@@ -11,49 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Maritime Engineering, Polytechnic University of Madrid, 2014
+* M.Sc. with Distinction in Sustainable Engineering: Offshore Renewable Energy, University of Strathclyde, 2015
+* Erasmus Mundus Advanced Master in Ship Design and Offshore Structures, University of Liège, École Centrale de Nantes, University of Rostock, 2017
+* Ph.D in Engineering Science, University of Liège, 2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021 - present: Postdoctoral Researcher
+  * University of Liège
+  * Duties included: PhD supervision, teaching, research projects follow-up and proposal preparation
+  * Supervisor: Professor Philippe Rigo
+  * Co-Supervisor: Professor ‪Konstantinos G. Papakonstantinou (Penn State)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017 - 2021: Research Engineer
+  * University of Liège
+  * Duties included: Teaching, research projects proposal preparation
+  * Supervisor: Professor Philippe Rigo
+  * Co-Supervisor: Professor ‪Konstantinos G. Papakonstantinou (Penn State)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Computer skills
+  * Matlab & Simulink, Python, Sesam & Bladed (DNV-GL),OpenFast (NREL),ANSYS (FEA), Maxsurf (Bentley), LATEX, CAD/CAE(Autocad, Inventor), Rhinoceros, Star-CCM+ (CFD) 
+* Languages
+  * Spanish (native)
+  * English (fluent)
+  * French (basic)
   
-Talks
+Memberships
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+ * Associate Member of the Royal Institution of Naval Architects (ARINA)
+ * Associate Member of the American Society of Civil Engineers (ASCE) 
+ * Member of the International Ship and Offshore Structures Congress (ISSC): Committee V.4 “Offshore Renewable Energy”
+ * Member of the International Association for Life-Cycle Civil Engineering (IALCCE)
+ * Member of the European Energy Research Alliance (EERA): JPWind – Subprogramme 7 “Structures, materials and components”
   
-Teaching
+Honors & Awards
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+ * Paper of the Month ‘May’ –Infrastructure. BAM, Abteilung Bauwerkssicherheit (2021)
+ * Belgian Scientific Research Fund FRIA Research Scholarship (2017 – 2021)
+ * EMShip Award for the best Master Thesis (2017)
+ * ULiège Scholarship for EMShip master’s studies (2015 – 2017)
+ * Offshore Renewable Energy Britannia Scholarship (2014 – 2015)
+ * Spanish Government Grant for University Studies (2010 –2014)
