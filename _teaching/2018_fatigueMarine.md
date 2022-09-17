@@ -2,8 +2,8 @@
 title: "Offshore wind structures"
 collection: teaching
 type: "Postgraduate course"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University of Liège, Civil and Naval Engineering"
+permalink: /teaching/2018_fatigueMarine
+venue: "University of Liège, Civil and Naval Engineering Department"
 date: 2018-01-09
 location: "Liège, Belgium"
 ---
