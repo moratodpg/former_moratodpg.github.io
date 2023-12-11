@@ -18,6 +18,16 @@ Education
 
 Work experience
 ======
+* 2023 - present: Postdoctoral Researcher
+  * Delft University of Technology
+  * Duties included: ICLEI research project, teaching, and supervision
+  * Supervisor: Prof. Seyran Khademi, Prof. Charalampos Andriotis
+
+* 2023: Postdoctoral Researcher
+  * Technical University of Denmark
+  * Duties included: Research projects follow-up and proposal preparation
+  * Supervisor: Professor Athanasios Kolios
+    
 * 2021 - present: Postdoctoral Researcher
   * University of Liège
   * Duties included: PhD supervision, teaching, research projects follow-up and proposal preparation
